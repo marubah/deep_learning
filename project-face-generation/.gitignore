@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+processed_celeba_small/
+dlnd_face_generation.html
