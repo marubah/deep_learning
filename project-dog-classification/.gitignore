@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+dogImages/
+lfw/
+report.html
+model_transfer.pt
+model_scratch.pt
